@@ -1,0 +1,7 @@
+{
+    "name": "go",
+    "version": "0.0.1",
+    "devDependencies": {
+        "karma": "0.11.4"
+    }
+}
